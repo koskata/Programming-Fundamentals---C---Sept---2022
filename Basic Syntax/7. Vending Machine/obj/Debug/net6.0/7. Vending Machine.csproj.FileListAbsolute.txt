@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.exe
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.deps.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\refint\7. Vending Machine.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\ref\7. Vending Machine.dll

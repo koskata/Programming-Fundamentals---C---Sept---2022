@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\bin\Debug\net6.0\6. Strong Number.exe
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\bin\Debug\net6.0\6. Strong Number.deps.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\bin\Debug\net6.0\6. Strong Number.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\bin\Debug\net6.0\6. Strong Number.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\bin\Debug\net6.0\6. Strong Number.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\refint\6. Strong Number.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\6. Strong Number.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\6. Strong Number\obj\Debug\net6.0\ref\6. Strong Number.dll

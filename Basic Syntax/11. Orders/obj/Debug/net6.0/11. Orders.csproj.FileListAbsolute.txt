@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\bin\Debug\net6.0\11. Orders.exe
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\bin\Debug\net6.0\11. Orders.deps.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\bin\Debug\net6.0\11. Orders.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\bin\Debug\net6.0\11. Orders.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\bin\Debug\net6.0\11. Orders.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\refint\11. Orders.dll
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.pdb
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\11. Orders.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Exercise Basic Syntax, Conditional Statements and Loops\11. Orders\obj\Debug\net6.0\ref\11. Orders.dll
